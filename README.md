@@ -1,6 +1,6 @@
 # KeyBoard based Guitar
 
-### This was my first undergraduate project done under Ishtiaque Hossain Sir.
+### This was my first undergraduate project done under Mr. Ishtiaque Hossain Sir.
 
 - In this project I tried to make a simple keyboard based guitar using C. For this I used > winmm
 library to load the audio files in Codeblocks library as it was not there by default and used gnu/gcc compiler to compile.
